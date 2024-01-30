@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Adame-glitch/blog_ang/static/css/main.a216c109.css",
+    "main.js": "/Adame-glitch/blog_ang/static/js/main.390f0a20.js",
+    "index.html": "/Adame-glitch/blog_ang/index.html",
+    "main.a216c109.css.map": "/Adame-glitch/blog_ang/static/css/main.a216c109.css.map",
+    "main.390f0a20.js.map": "/Adame-glitch/blog_ang/static/js/main.390f0a20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a216c109.css",
+    "static/js/main.390f0a20.js"
+  ]
+}
